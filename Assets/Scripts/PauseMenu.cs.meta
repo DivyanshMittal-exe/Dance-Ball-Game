@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a15b7a1357ccbc44f9ae0ae0eb2cb8d0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioMixer: {fileID: 24100000, guid: c9639aed95306f14eb86b2fb2263c2fb, type: 2}
+  - PauseMenuUI: {instanceID: 0}
+  - audioSourceG: {instanceID: 0}
+  - audioSourceP: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
